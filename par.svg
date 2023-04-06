@@ -1,15 +1,39 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-
+    <foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">            
              <style>
-                .mainDiv {
-                    color: red; 
-                }
+               .socialMedias {
+                width: 20%;
+                height: 20%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+               } 
+
+               .mediaIcon {
+                width: 50px;
+                height: 50px;
+                background-color: red;
+                color: #000; border;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin-left: 10px;
+               }
+
+               ion-icon {
+
+               }
              </style>
-             <div class="mainDiv">
-                Hello
+
+             <div class="socialMedias">
+                <div class="mediaIcon">
+                    <ion-icon name="logo-facebook"></ion-icon>
+                </div>
              </div>
         </div>
     </foreignObject>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 </svg>
