@@ -23,15 +23,31 @@
                }
 
                ion-icon {
+                font-size: 28px;
+                transition: transform 0.5s ease-in-out;
+                -webkit-transition: transform .5s ease-in-out;
+                -moz-transition: transform .5s ease-in-out;
+                cursor: pointer;
+                padding: 5px;
+               }
 
+               ion-icon:hover {
+                transform: rotate(360deg) translate(1px, 1px);
+                color: #fff;
                }
              </style>
-
-             <div class="socialMedias">
+            <div class="socialMedias">
                 <div class="mediaIcon">
-                    <ion-icon name="logo-facebook"></ion-icon>
+                    <a href="#">
+                        <ion-icon name="accessibility-outline"></ion-icon>
+                    </a>
                 </div>
-             </div>
+               <div class="mediaIcon">
+                    <a href="#">
+                        <ion-icon name="accessibility-outline"></ion-icon>
+                    </a>
+                </div>
+            </div>
         </div>
     </foreignObject>
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
