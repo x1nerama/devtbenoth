@@ -24,12 +24,23 @@
 </div>
 
 <p style="text-align: justify; font-size: 16px;">
-  My name is Berkay Karakoç. I am a 16 year old 11th grade high school student interested in Binary Exploitation and Malware Analysis in Linux Environment.
-  <br> <br>
-  Although I am not a professional in the fields I am interested in, I am trying to improve myself. At the same time, I share what I have learned about this field on my <a href="https://devtbenoth.github.io"> github.io </a> page for other people to learn.
-  <br> <br>
-  At the same time, I am studying software at Suzan Mehmet Gönç Vocational and Technical Anatolian High School as an 11th grader in the IT department. In addition, I am   interested in the Full Stack Development side for my school process to be successful.
+ My name is Berkay Karakoç. I am a 16 year old 11th grade high school student interested in Binary Exploitation and Malware Analysis in Linux Environment.
+
+ Although I am not a professional in the fields I am interested in, I am trying to improve myself. At the same time, I share what I learned about this field on my github.io page for other people to learn.
+
+At the same time, I am studying software development at Suzan Mehmet Gönç Vocational and Technical Anatolian High School. I am interested in the Full Stack Development     side so that I can be more successful in the school process.
 </p>
+
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
 
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
