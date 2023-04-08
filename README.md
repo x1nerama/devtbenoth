@@ -1,1 +1,4 @@
-<img src="background.svg">
+<div align="center">
+  <img src="aboutMe.svg" width="100%">
+  <hr>
+</div>
