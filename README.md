@@ -44,6 +44,9 @@ At the same time, I am studying software development at Suzan Mehmet Gönç Voca
     <a href="https://github.com/devTBenoth/registry-system-with-nodejs-express">
        <img width="278" src="https://github.com/devTBenoth/DevTBenoth/blob/main/cards/registry-system-card.svg">
     </a>
+    <a href="https://github.com/devTBenoth/basic-virus">
+       <img width="278" src="https://github.com/devTBenoth/DevTBenoth/blob/main/cards/basic-virus.svg">
+    </a>
   </p>
   <a href="https://github.com/devTBenoth?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
