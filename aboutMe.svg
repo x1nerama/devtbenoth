@@ -12,7 +12,7 @@
         <!-- Single line -->
            <animate id='d0' attributeName='d' begin='0s;d3.end' dur='6000ms' fill='remove' values='m0,22.5 h0 ; m0,22.5 h440 ; m0,22.5 h440 ; m0,22.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
     </path>
-    <text font-family='"Fira Code", monospace' fill='#f75c7e' font-size='22' dominant-baseline='middle' x='50%' text-anchor='middle'>
+    <text font-family='"Fira Code", monospace' fill='#1b4894' font-size='22' dominant-baseline='middle' x='50%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
             Hi, I'm Berkay! 
         </textPath>
@@ -21,7 +21,7 @@
         <!-- Single line -->
            <animate id='d1' attributeName='d' begin='d0.end' dur='6000ms' fill='remove' values='m0,22.5 h0 ; m0,22.5 h440 ; m0,22.5 h440 ; m0,22.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
     </path>
-    <text font-family='"Fira Code", monospace' fill='#f75c7e' font-size='22' dominant-baseline='middle' x='50%' text-anchor='middle'>
+    <text font-family='"Fira Code", monospace' fill='#1b4894' font-size='22' dominant-baseline='middle' x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
             Reverse Engineer
         </textPath>
@@ -30,7 +30,7 @@
          <!-- Single line -->
             <animate id='d2' attributeName='d' begin='d1.end' dur='6000ms' fill='remove' values='m0,22.5 h0 ; m0,22.5 h440 ; m0,22.5 h440 ; m0,22.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
     </path>
-    <text font-family='"Fira Code", monospace' fill='#f75c7e' font-size='22' dominant-baseline='middle' x='50%' text-anchor='middle'>
+    <text font-family='"Fira Code", monospace' fill='#1b4894' font-size='22' dominant-baseline='middle' x='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
             Malware Analyzer
         </textPath>
@@ -39,7 +39,7 @@
          <!-- Single line -->
             <animate id='d3' attributeName='d' begin='d2.end' dur='6000ms' fill='remove' values='m0,22.5 h0 ; m0,22.5 h440 ; m0,22.5 h440 ; m0,22.5 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
     </path>
-    <text font-family='"Fira Code", monospace' fill='#f75c7e' font-size='22' dominant-baseline='middle' x='50%' text-anchor='middle'>
+    <text font-family='"Fira Code", monospace' fill='#1b4894' font-size='22' dominant-baseline='middle' x='50%' text-anchor='middle'>
         <textPath xlink:href='#path3'>
             Full Stack Developer
         </textPath>
