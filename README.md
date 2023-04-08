@@ -38,11 +38,9 @@ At the same time, I am studying software development at Suzan Mehmet Gönç Voca
     <a href="https://github.com/devtbenoth/x86-assembly-calculator">
        <img width="278" src="https://github.com/devTBenoth/DevTBenoth/blob/main/cards/assembly-card.svg">
     </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/devTBenoth/fuzzing-script-with-c">
        <img width="278" src="https://github.com/devTBenoth/DevTBenoth/blob/main/cards/fuzzing-card.svg">
     </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/devTBenoth/registry-system-with-nodejs-express">
        <img width="278" src="https://github.com/devTBenoth/DevTBenoth/blob/main/cards/registry-system-card.svg">
     </a>
