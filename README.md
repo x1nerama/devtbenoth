@@ -7,9 +7,22 @@
     Social Media Icons 
 !-->
 <div align="center">
-  <a href="#"> 
-    <a href="#"><img src="https://i.ibb.co/cYJgjzn/web-domain.png" alt="Github Page" width="72px" height="72px"></a>
+  <a href="https://github.com/devtbenoth"> 
+    <img src="https://i.ibb.co/9h0dg69/github.png" alt="Github Page" width="40px" height="40px">
   </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"> 
+    <img src="https://i.ibb.co/kK5hm3f/medium.png" alt="Medium" width="40px" height="40px">
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=""> 
+    <img src="https://i.ibb.co/s6t2Xtm/youtube.png" alt="Youtube" width="45px" height="45px">
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://devtbenoth.github.io"> 
+    <img src="https://i.ibb.co/R2N3J41/web-domain.png" alt="Github Page" width="48px" height="48px">
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </div>
 
 <p style="text-align: justify; font-size: 16px;">
