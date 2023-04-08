@@ -1,3 +1,4 @@
 <div style="width: 100%;">
-  <img src="par.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="#" style="a:hover { text-decoration: none; }">
+    <img src="par.svg" width="50%">
 </div>
