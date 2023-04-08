@@ -3,8 +3,8 @@
   <desc id="descId"></desc>
     <style>
         .header {
-            font: 600 17px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #1b4894;
+            font: 600 19px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #4e82db;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
         }
 
@@ -62,7 +62,7 @@
     <!-- Card Header -->
     <g data-testid="card-title" transform="translate(25,32)">
         <g transform="translate(0,0)">
-            <text x="45" y="0" class="header" data-testid="header">
+            <text x="40" y="0" class="header" data-testid="header">
                 Fuzzing Script with C 
             </text>
         </g>
