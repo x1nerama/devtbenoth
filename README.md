@@ -1,7 +1,1 @@
-<div align="center">
-    <br>
-     <a href="https://github.com/devTBenoth/DevTBenoth/par.svg">
-        <img src="par.svg">
-     </a>
-     <br>
-</div>
+<iframe src="https://github.com/devTBenoth/DevTBenoth/blob/main/index.html" width="100%", height="500px"></iframe>
