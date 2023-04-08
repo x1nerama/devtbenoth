@@ -35,9 +35,14 @@ At the same time, I am studying software development at Suzan Mehmet Gönç Voca
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/devtbenoth/x86-assembly-calculator"><img width="278" src="https://github.com/devTBenoth/DevTBenoth/blob/main/cards/assembly-card.svg"></a>
+    <a href="https://github.com/devtbenoth/x86-assembly-calculator">
+       <img width="278" src="https://github.com/devTBenoth/DevTBenoth/blob/main/cards/assembly-card.svg">
+    </a>
+    <a href="https://github.com/devTBenoth/fuzzing-script-with-c">
+       <img width="278" src="https://github.com/devTBenoth/DevTBenoth/blob/main/cards/fuzzing-card.svg">
+    </a>
   </p>
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/devTBenoth?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <details open> 
