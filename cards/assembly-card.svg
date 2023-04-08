@@ -76,7 +76,7 @@
                 Simple Calculator with X86_64 Linux Assembly
             </tspan>
         </text>
-        <g transform="translate(30, 45)">
+        <g transform="translate(15, 45)">
             <g transform="translate(0, 40)">
                 <g data-testid="primay-lang">
                     <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#6E4C13" />
