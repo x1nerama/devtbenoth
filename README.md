@@ -3,6 +3,15 @@
   <hr>
 </div>
 
+<!--  
+    Social Media Icons 
+!-->
+<div align="center">
+  <a href="#"> 
+    <a href="#"><img src="https://i.ibb.co/cYJgjzn/web-domain.png" alt="Github Page" width="72px" height="72px"></a>
+  </a>
+</div>
+
 <p style="text-align: justify; font-size: 16px;">
   My name is Berkay Karakoç. I am a 16 year old 11th grade high school student interested in Binary Exploitation and Malware Analysis in Linux Environment.
   <br> <br>
