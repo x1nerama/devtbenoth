@@ -12,7 +12,7 @@
     <img src="https://i.ibb.co/kK5hm3f/medium.png" alt="Medium" width="40px" height="40px">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""> 
+  <a href="https://www.youtube.com/channel/UCu-BQ4ANPlWc01uur6N3sCA"> 
     <img src="https://i.ibb.co/s6t2Xtm/youtube.png" alt="Github Page" width="45px" height="45px">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
