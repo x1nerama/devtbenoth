@@ -1,3 +1,3 @@
-<div align="center">
-  <img src="https://github.com/devTBenoth/DevTBenoth/blob/main/index.html" width="100%" height="500px">
+<div style="width: 100%;">
+  <img src="par.svg" style="width: 100%;" alt="Click to see the source">
 </div>
