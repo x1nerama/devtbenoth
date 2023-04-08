@@ -75,6 +75,11 @@
       <div class="container">
         <h1>Hi there, my name is Berkay <div class="hi">👋</div></h1>
       </div>
+      <div class="icon">
+        <a href="#">
+          <p> deneme </p>
+        </a>
+      </div>
     </div>
   </foreignObject>
 </svg>
