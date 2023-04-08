@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="aboutMe.svg" width="100%">
-  
+  <h1> 
+      Hi, I'm Berkay Karakoç! <br>
+      <img src="aboutMe.svg" width="60%">
+  </h1>
+  <br>
   <!--   Social Media Icons !-->
   <a href="https://github.com/devtbenoth"> 
     <img src="https://i.ibb.co/9h0dg69/github.png" alt="Github Page" width="40px" height="40px">
@@ -25,4 +28,6 @@
   My name is Berkay Karakoç. I am a 16 year old 11th grade high school student interested in Binary Exploitation and Malware Analysis in Linux Environment.
   <br> <br>
   Although I am not a professional in the fields I am interested in, I am trying to improve myself. At the same time, I share what I have learned about this field on my <a href="https://devtbenoth.github.io"> github.io </a> page for other people to learn.
+  <br> <br>
+  At the same time, I am studying software at Suzan Mehmet Gönç Vocational and Technical Anatolian High School as an 11th grader in the IT department. In addition, I am   interested in the Full Stack Development side for my school process to be successful.
 </p>
