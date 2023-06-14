@@ -27,8 +27,6 @@
  My name is Berkay Karakoç. I am a 16 year old 11th grade high school student interested in Binary Exploitation and Malware Analysis in Linux Environment.
 
  Although I am not a professional in the fields I am interested in, I am trying to improve myself. At the same time, I share what I learned about this field on my github.io page for other people to learn.
-
-At the same time, I am studying software development at Suzan Mehmet Gönç Vocational and Technical Anatolian High School. I am interested in the Full Stack Development     side so that I can be more successful in the school process.
 </p>
 
 <details open> 
