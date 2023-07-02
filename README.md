@@ -24,7 +24,7 @@
 </div>
 
 <p style="text-align: justify; font-size: 16px;">
- My name is Berkay. I am a 17 year old 11th grade high school student interested in Binary Exploitation and Malware Analysis in Linux Environment.
+ My name is Berkay. I am a 17 year old 12th grade high school student interested in Binary Exploitation and Malware Analysis in Linux Environment.
 
  Although I am not a professional in the fields I am interested in, I am trying to improve myself. At the same time, I share what I learned about this field on my github.io page for other people to learn.
 </p>
