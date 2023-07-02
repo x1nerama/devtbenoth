@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 
-      Hi, I'm Berkay Karakoç! <br>
+      Hi, I'm Berkay! <br>
       <img src="aboutMe.svg" width="70%">
   </h1>
   <!--   Social Media Icons !-->
