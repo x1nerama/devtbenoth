@@ -8,7 +8,7 @@
     <img src="https://i.ibb.co/9h0dg69/github.png" alt="Github Page" width="40px" height="40px">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@froghlatasch"> 
+  <a href="https://medium.com/@bekooo"> 
     <img src="https://i.ibb.co/kK5hm3f/medium.png" alt="Medium" width="40px" height="40px">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -16,7 +16,7 @@
     <img src="https://i.ibb.co/s6t2Xtm/youtube.png" alt="Youtube" width="45px" height="45px">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://devtbenoth.github.io"> 
+  <a href="https://bekoo.software"> 
     <img src="https://i.ibb.co/R2N3J41/web-domain.png" alt="Github Page" width="40px" height="40px">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
